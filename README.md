@@ -5,8 +5,9 @@ This application will pull data from the ComicVine API to display images and tex
 In addition, there will be a reviews section, so that users can submit their own opinions on the critically acclaimed series.
 
 Technologies used shall include: 
-                              - HTML\CSS
-                              - JavaScript\jQuery
-                              - Express.js
-                              - Bootstrap
+                              <br> - HTML\EJS\CSS
+                             <br>  - JavaScript\jQuery
+                              <br> - Express.js
+                              <br> - SQL
+                               <br>- Bootstrap
                               
