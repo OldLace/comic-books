@@ -9,5 +9,5 @@ Technologies used shall include:
                              <br>  - JavaScript\jQuery
                               <br> - Express.js
                               <br> - SQL
-                               <br>- Bootstrap
+                             
                               
